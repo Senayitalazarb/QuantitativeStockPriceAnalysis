@@ -1,2 +1,2 @@
 # QuantitativeStockPriceAnalysis
-  with python, pandas and NumPy, matplotlib, Scipy
+  Analysis with python, pandas and NumPy, matplotlib, Scipy
